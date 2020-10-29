@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PostPreview/> Simple Render Works 1`] = `
+<div
+  className="post-preview"
+>
+  <Link
+    to="/post/undefined"
+  >
+    <h2
+      className="post-title"
+    />
+  </Link>
+  <p
+    className="post-meta"
+  >
+    Posted by
+    <a
+      href="#"
+    >
+      Start Bootstrap
+    </a>
+    on September 24, 2019
+  </p>
+</div>
+`;
